@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "patient-lab-f365",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1248f0bd-e5c0-41f7-aafa-0eeed31981a0",
+      "database_name": "icy-union-1c85-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
